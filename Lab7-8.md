@@ -112,7 +112,8 @@ The `umask` determines the default permissions for newly created files and direc
 
 ![Screenshot from 2025-03-19 15-01-26](https://github.com/user-attachments/assets/7fe2de39-c108-4687-9f7a-4501e2b81359)
 
-![Screenshot from 2025-03-19 15-01-57](https://github.com/user-attachments/assets/7d7ebf78-3f28-42e3-ba14-90ff3c020bd7)
+![Screenshot from 2025-03-19 15-08-15](https://github.com/user-attachments/assets/778bfcf3-3e69-469d-bd6c-0f486b72214c)
+
 
 
 
